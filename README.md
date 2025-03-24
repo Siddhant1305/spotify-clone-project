@@ -1,10 +1,10 @@
 # **🎵 Spotify Clone**
 
-**🚀 Overview:**
+# **_🚀 Overview:_**
 
 The Spotify Clone is a full-stack web application that replicates core features of Spotify, allowing users to stream music, create playlists, and explore a vast collection of songs. Built with React.js, this app provides a seamless music experience with a responsive and interactive UI.
 
-**✨ Features:**
+# **_✨ Features:_**
 
 **•	User Authentication:** Secure login and signup functionality.
 
@@ -22,7 +22,7 @@ The Spotify Clone is a full-stack web application that replicates core features 
 
 **•	Mobile-Responsive Design:** Optimized for both desktop and mobile users.
 
-**🛠️ Tech Stack:**
+# **🛠️ Tech Stack:_**
 
 **•	Frontend:** React.js, HTML, CSS, JavaScript
 
@@ -38,7 +38,7 @@ The Spotify Clone is a full-stack web application that replicates core features 
 
 **•	Styling:** CSS / Material UI
 
-**🔥 Future Enhancements:**
+#**🔥 Future Enhancements:_**
 
 **•	Lyrics Display:** Show lyrics for currently playing songs.
 
